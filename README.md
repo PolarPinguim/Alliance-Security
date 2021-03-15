@@ -16,6 +16,7 @@ Open source AllianceSecurity
 - Install the requiriments.txt
 pip install -r requirements.txt
 - Configure your token in source
+- Configure all ID's in source
 - Start main.py
 
 **Como usar**
@@ -23,5 +24,6 @@ pip install -r requirements.txt
 - Instalar os requeriments.txt
 	pip install -r requirements.txt
 - Configura sua token nos códigos
+- Configurar todos os ID's no código
 - Inicar main.py
 
